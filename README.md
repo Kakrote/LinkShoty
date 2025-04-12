@@ -2,6 +2,12 @@
 
 A full-stack URL shortener with analytics dashboard. Users can create shortened links, track clicks, view device/browser breakdown, and see analytics over time.
 
+## deployment link
+-https://frontend-taupe-three-41.vercel.app/
+## git repo
+-frontend https://github.com/Kakrote/frontend
+-backend https://github.com/Kakrote/LinkShoty.git
+
 ## Features
 
 - **Authentication**: JWT-based authentication with email/password.
@@ -32,9 +38,4 @@ A full-stack URL shortener with analytics dashboard. Users can create shortened 
 
 git clone https://github.com/Kakrote/LinkShoty.git
 cd LinkShoty
-Links
-Frontend Deployment: Vercel Deployment Link
 
-Backend GitHub Repository: Backend Repository
-
-Frontend GitHub Repository: Frontend Repository
