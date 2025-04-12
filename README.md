@@ -29,7 +29,7 @@ A full-stack URL shortener with analytics dashboard. Users can create shortened 
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/Kakrote/LinkShoty.git
 cd LinkShoty
 Links
