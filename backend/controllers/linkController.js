@@ -23,7 +23,7 @@ exports.createLink = async (req, res) => {
     });
 
     res.status(201).json({
-      shortUrl: `http://localhost:5000/${newLink.shortCode}`,
+      shortUrl: `https://linkshoty-production.up.railway.app/${newLink.shortCode}`,
       link: newLink,
     });
   } catch (err) {
